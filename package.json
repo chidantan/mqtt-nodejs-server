@@ -1,0 +1,19 @@
+{
+  "name": "joyrryjitmqttserver",
+  "version": "1.0.0",
+  "description": "joyrry project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^10.12.12",
+    "mosca": "^2.8.3",
+    "mqtt": "^2.18.8"
+  },
+  "devDependencies": {
+    "@types/mosca": "^2.8.1"
+  }
+}
